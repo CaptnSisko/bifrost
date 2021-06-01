@@ -9,6 +9,10 @@
       "destination": "https://bans.left4craft.org"
     },
     {
+      "source": "/shop",
+      "destination": "https://bans.left4craft.org/shop"
+    },
+    {
       "source": "/(.*)",
       "destination": "https://www.left4craft.org"
     }
