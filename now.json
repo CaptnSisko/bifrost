@@ -2,27 +2,15 @@
   "redirects": [
     {
       "source": "/github",
-      "destination": "https://github.com/TimoStaudinger"
+      "destination": "https://github.com/Left4Craft"
     },
     {
-      "source": "/twitter",
-      "destination": "https://twitter.com/TimoStaudinger"
-    },
-    {
-      "source": "/dotfiles",
-      "destination": "https://github.com/TimoSta/dotfiles"
-    },
-    {
-      "source": "/files",
-      "destination": "https://drive.google.com/drive/folders/19yez18C3uPtIB8BZOZM9Ah9xAdh8Chqu"
-    },
-    {
-      "source": "/uses",
-      "destination": "https://timostaudinger.com/uses"
+      "source": "/bans",
+      "destination": "https://bans.left4craft.org"
     },
     {
       "source": "/(.*)",
-      "destination": "https://timostaudinger.com"
+      "destination": "https://www.left4craft.org"
     }
   ]
 }
