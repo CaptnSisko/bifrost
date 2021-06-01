@@ -2,19 +2,23 @@
   "redirects": [
     {
       "source": "/github",
-      "destination": "https://github.com/Left4Craft"
+      "destination": "https://github.com/Left4Craft",
+      "permanent": false
     },
     {
       "source": "/bans",
-      "destination": "https://bans.left4craft.org"
+      "destination": "https://bans.left4craft.org",
+      "permanent": false
     },
     {
       "source": "/shop",
-      "destination": "https://www.left4craft.org/shop"
+      "destination": "https://www.left4craft.org/shop",
+      "permanent": false
     },
     {
       "source": "/(.*)",
-      "destination": "https://www.left4craft.org"
+      "destination": "https://www.left4craft.org",
+      "permanent": false
     }
   ]
 }
