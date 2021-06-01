@@ -10,7 +10,7 @@
     },
     {
       "source": "/shop",
-      "destination": "https://bans.left4craft.org/shop"
+      "destination": "https://www.left4craft.org/shop"
     },
     {
       "source": "/(.*)",
