@@ -17,7 +17,17 @@
     },
     {
       "source": "/rules",
-      "destination": "https://wiki.left4craft.org/rules/",
+      "destination": "https://wiki.left4craft.org/rules",
+      "permanent": false
+    },
+    {
+      "source": "/haste",
+      "destination": "https://haste.l4c.link",
+      "permanent": false
+    },
+    {
+      "source": "/paste",
+      "destination": "https://haste.l4c.link",
       "permanent": false
     },
     {
