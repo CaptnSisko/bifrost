@@ -16,6 +16,11 @@
       "permanent": false
     },
     {
+      "source": "/rules",
+      "destination": "https://wiki.left4craft.org/rules/",
+      "permanent": false
+    },
+    {
       "source": "/(.*)",
       "destination": "https://www.left4craft.org",
       "permanent": false
